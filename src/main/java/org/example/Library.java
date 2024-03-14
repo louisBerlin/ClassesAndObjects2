@@ -4,7 +4,6 @@ import java.util.Arrays;
 
 public class Library {
 
-
     Book[] arrayBook;
 
     public Library(Book[] arrayBook) {
@@ -24,5 +23,6 @@ public class Library {
 
 
         return s;
+
     }
 }
